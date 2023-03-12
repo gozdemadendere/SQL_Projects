@@ -1,2 +1,2 @@
 # SQL_Projects
-my sql projects
+SQL Portfolio Projects
