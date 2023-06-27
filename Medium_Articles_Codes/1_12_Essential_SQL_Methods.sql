@@ -1,6 +1,6 @@
 /*
 
-1) 12 Essential SQL Methods
+12 Essential SQL Methods
 
 We’ll cover SELECT, SELECT DISTINCT, WHERE, NOT, AND, OR, IN, LIKE, BETWEEN, ORDER BY, NULL, IS NOT NULL.
 
