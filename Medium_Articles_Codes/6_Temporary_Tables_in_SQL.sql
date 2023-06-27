@@ -1,4 +1,9 @@
 
+/*
+
+SQL Temporary Tables
+
+*/
 
 
 -- I'd like to show this query's result as a temporary table.

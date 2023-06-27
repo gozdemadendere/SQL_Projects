@@ -1,8 +1,8 @@
 /*
 
-1) SQL Joins
+SQL Joins
 
-In this article, we will explore the most commonly used SQL Joins such as Inner, Left, Right, and Cross Join.
+We will explore the most commonly used SQL Joins such as Inner, Left, Right, and Cross Join.
 
 */
 

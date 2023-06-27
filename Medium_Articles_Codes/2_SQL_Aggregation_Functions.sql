@@ -1,6 +1,6 @@
 /*
 
-1) SQL Aggregation Functions
+SQL Aggregation Functions
 
 We’ll cover COUNT, COUNT DISTINCT, SUM, AVG, MAX, MIN, ROUND, GROUP BY, ORDER BY HAVING, WITH ROLLUP.
 

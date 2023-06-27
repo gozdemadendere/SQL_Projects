@@ -1,8 +1,8 @@
 /*
 
-1) SQL String Functions
+SQL String Functions
 
-In this article, we will explore 12 essential SQL string functions such as CONCAT, REPLACE, LEFT, RIGHT, UPPER, LOWER, LENGHT, SUBSTRING, TRIM, INSTR, REVERSE.
+We will explore 12 essential SQL string functions such as CONCAT, REPLACE, LEFT, RIGHT, UPPER, LOWER, LENGHT, SUBSTRING, TRIM, INSTR, REVERSE.
 
 */
 

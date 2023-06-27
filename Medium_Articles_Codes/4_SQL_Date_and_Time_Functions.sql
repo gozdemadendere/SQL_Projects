@@ -1,8 +1,8 @@
 /*
 
-1) SQL Date & Time Functions
+SQL Date & Time Functions
 
-In this article, we will explore the most commonly used SQL Date & Time Functions such as DATE(), TIME(), EXTRACT(), YEAR(), MONTH(), DAY(), NOW(), CURRENT_DATE, CURRENT_TIME, DATE_FORMAT(), TIMESTAMPDIFF(), DATE_ADD(), DATE_SUB(), STR_TO_DATE(), WEEKDAY().
+W will explore the most commonly used SQL Date & Time Functions such as DATE(), TIME(), EXTRACT(), YEAR(), MONTH(), DAY(), NOW(), CURRENT_DATE, CURRENT_TIME, DATE_FORMAT(), TIMESTAMPDIFF(), DATE_ADD(), DATE_SUB(), STR_TO_DATE(), WEEKDAY().
 
 */
 
