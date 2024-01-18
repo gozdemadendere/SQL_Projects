@@ -84,14 +84,6 @@ FROM stores
 WHERE (stor_address LIKE "%Ave.") OR (stor_address LIKE "%St."); 
 
 
--- Which publishers are based in the USA and in a city that start with the letter B ?
-
-SELECT pub_name, city, country
-FROM publishers
-WHERE (city LIKE "B%") AND (country = "USA");
-
-
-
 -- Select all the order numbers with a quantity sold between 25 and 45 from the table sales.
 
 SELECT ord_num, qty
