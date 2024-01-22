@@ -1,5 +1,5 @@
 
-USE publications;
+USE publications; 
 
 -- How many authors live in either San Jose or Salt Lake City
 
